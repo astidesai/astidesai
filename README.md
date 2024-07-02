@@ -1,20 +1,14 @@
 <!-- Intro  -->
-<h2 align="center">
-        <samp>&gt; Hey There!, I'm
-                <b><a target="_blank" href="https://www.asthadesai.co.uk">Asti</a></b>
+<h2 align="left">
+        <samp>&gt; Hey There 👋, I'm
+                <b><a target="_blank" href="https://www.asthadesai.co.uk">Asti!</a></b>
         </samp>
 </h2>
-
-
-<p align="center"> 
-  <samp>
-    <br>
-    I am a full stack software engineer from <b>London</b> 
-    <br>
-    <br>
-  </samp>
+<p>
+        <samp>&gt;
+                I am a full stack software engineer from <b>London</b> 🇬🇧. You can find out more about me on my <b><a target="_blank" href="https://www.asthadesai.co.uk">website</a></b>.
+        </samp>
 </p>
-
 
 ## Tech Stacks
 
@@ -24,6 +18,7 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
